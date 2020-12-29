@@ -17,7 +17,7 @@ class Student:
             result = 'failed'
         return result
 
-studentS = Student('sata')
+studentS = Student('HU RUONING')
 data = [98,92,85,96,100]
 avg = studentS.calculateAvg(data)
 print(avg)
